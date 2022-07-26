@@ -1,5 +1,4 @@
 # princeton-java-intro
-.
 
 Course link: https://www.coursera.org/learn/cs-programming-java#syllabus
 
